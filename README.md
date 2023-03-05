@@ -3,7 +3,7 @@
 
 <br>The directory contains 2 folders:</br>
  <br>Task 1 - Estimate Step Count</br>
-<br>https://drive.google.com/file/d/17Gd66WbGvEO3h9D5EssM_j5o0oleWzQN/view?usp=share_link</br>
+<br>Step Tracker App Video Demo: https://drive.google.com/file/d/17Gd66WbGvEO3h9D5EssM_j5o0oleWzQN/view?usp=share_link</br>
     <br>- Data: data for offline analysis</br>
     <br>- StepTracker: Android App</br>
     <br>- Counting_Steps.ipynb: Python code for analysis</br>
