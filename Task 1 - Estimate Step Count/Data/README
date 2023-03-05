@@ -1,0 +1,7 @@
+Readme for step tracking data
+
+This folder contains data as follows:
+UserId_speed/position_steps.csv
+
+speed: fast/ slow/ normal
+Position: hand/ pocket
