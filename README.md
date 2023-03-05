@@ -1,15 +1,15 @@
 # SRIP-2023-Smart-Mask-Submission
-This repository contains my submission for the SRIP Smart Mask Project
+<br>This repository contains my submission for the SRIP Smart Mask Project</br>
 
-The directory contains 2 folders:
- Task 1 - Estimate Step Count
-https://drive.google.com/file/d/17Gd66WbGvEO3h9D5EssM_j5o0oleWzQN/view?usp=share_link
-    -Data: data for offline analysis
-    - StepTracker: Android App
-    - Counting_Steps.ipynb: Python code for analysis
-    -Step Count Report.pdf: Report explaining all the concepts
+<br>The directory contains 2 folders:</br>
+ <br>Task 1 - Estimate Step Count</br>
+<br>https://drive.google.com/file/d/17Gd66WbGvEO3h9D5EssM_j5o0oleWzQN/view?usp=share_link</br>
+    <br>- Data: data for offline analysis</br>
+    <br>- StepTracker: Android App</br>
+    <br>- Counting_Steps.ipynb: Python code for analysis</br>
+    <br>- Step Count Report.pdf: Report explaining all the concepts</br>
 
-Task 2 - Estimate Heart Rate/Data
-    -Data: data for analysis
-    -Heart_Rate_Monitor.ipynb: Python code for analysis
-    -HeartRate Monitor.pdf: Report explaining all the concepts
+<br>Task 2 - Estimate Heart Rate/Data</br>
+    <br> - Data: data for analysis </br>
+    <br>- Heart_Rate_Monitor.ipynb: Python code for analysis </br>
+    <br>- HeartRate Monitor.pdf: Report explaining all the concepts </br>
